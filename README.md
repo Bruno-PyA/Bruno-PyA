@@ -26,9 +26,6 @@
 
 In the professional setting, diverse experiences have shaped my understanding of the importance of empathy and effective communication. Right now, I'm looking for my first opportunity in the IT field, looking forward to applying my skills to challenging projects.
 
-## WAYS TO CONTACT ME: 
+## SOFT SKILLS 
 
-EMAIL: brunodenogueira@gmail.com
-
-Linkedin: www.linkedin.com/in/brunodenogueira
-
+I bring a disciplined approach to my work from my background in the Brazilian Army, ensuring tasks are completed efficiently and on time. Transitioning to Full Stack Development showcases my adaptability and eagerness to learn. I have a keen eye for detail, honed through procurement and administrative tasks. Problem-solving is a strength, particularly in debugging and optimizing code. My communication skills were developed through assisting passengers and collaborating with team members. I value teamwork and strive to provide excellent customer service. Organizational skills are crucial to me, as demonstrated by my management of inventory and administrative tasks. Perseverance is key to my work ethic, highlighted by earning a Certificate of Honor of Merit. Additionally, achieving a C1 level in English shows my ability to learn and use a second language effectively.
