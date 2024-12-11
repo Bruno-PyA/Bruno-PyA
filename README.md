@@ -21,6 +21,6 @@ Here you'll find some projects focused in the following technologies
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,angular,css,html,react,git,figma,nodejs&theme=light)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunona&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-PyA&hide_progress=true)
 
 Enjoy and come connect 😊
